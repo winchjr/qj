@@ -9,7 +9,7 @@ Features:
 -terminal based
 
 Requires:
--Python 2.7+
+-Python (2.7+)
 -edit the line with the link to your desired location
 
 
